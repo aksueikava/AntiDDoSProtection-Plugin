@@ -11,6 +11,9 @@
 </p>
 </p>
 
+> [!CAUTION] 
+> While the AntiDDoSProtection-Plugin provides measures to mitigate certain types of DDoS attacks and protect your server from overloads, it is important to understand that **no solution can offer complete immunity from all forms of attacks**. The plugin is designed to handle common scenarios and **may not be effective against highly sophisticated or persistent attacks**.
+
 ## Features
 - **Incoming packet analysis**: The plugin monitors and analyzes all incoming network packets to identify potential threats.
 - **Suspicious packets blocking**: When suspicious or anomalous packets are detected, the plugin automatically blocks them, preventing possible attacks.
